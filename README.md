@@ -1,6 +1,8 @@
 # Human-Action-Recognition-
 using video clssification 
 
+worked on different models to classify the videos and tryed to compare them
+
 dataset can be downloaded from here https://www.csc.kth.se/cvap/actions/
 
 test dataset https://www.wisdom.weizmann.ac.il/%7Evision/SpaceTimeActions.html
